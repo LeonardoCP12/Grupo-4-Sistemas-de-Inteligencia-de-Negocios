@@ -9,7 +9,7 @@
 BBVA
 
 ## Problematica
-Actualmente los indicadores de calidad, seguridad y cumplimiento de los servicios están dispersos en archivos de datos crudos, lo que obliga a revisar línea por línea para identificar vulnerabilidades, dependencias no asignadas o bajo nivel de adopción del modelo operativo. Esta falta de una vista consolidada dificulta que el Service Owner tenga control oportuno sobre el estado real de su servicio, generando riesgos de incumplimiento en la certificación y retrasos en la toma de decisiones de mejora.
+Actualmente no hay indicadores de calidad, seguridad y cumplimiento de los servicios y hay data dispersa en archivos de datos crudos, lo que obliga a revisar línea por línea para identificar vulnerabilidades, dependencias no asignadas o bajo nivel de adopción del modelo operativo. Esta falta de una vista consolidada dificulta que el Service Owner tenga control oportuno sobre el estado real de su servicio, generando riesgos de incumplimiento en la certificación y retrasos en la toma de decisiones de mejora.
 
 ## Persona que tiene la problematica
 Servive Owner y del área de Ingeniería & Data / Systems Engineering.
