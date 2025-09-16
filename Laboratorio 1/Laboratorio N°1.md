@@ -17,6 +17,7 @@ Instalando Virtual Box
 
 ![](imagenes/Aspose.Words.f926092b-9ef6-410d-8fcc-eacb01ecb3dc.003.png)
 
+
 Ejecutar el instalador de Virtual Box
 Luego de dar a la opción de Archivo-Preferencias- General, elegimos llamar al archivo por defectro con el nombre de InteligenciaNegocios
 
@@ -143,6 +144,7 @@ Una vez creado la  tabla externa en Hive se utiliza cuando deseas que los datos 
 Se genera la siguiente tabla:
 
 ![](imagenes/Aspose.Words.f926092b-9ef6-410d-8fcc-eacb01ecb3dc.025.png)
+
 
 
 
