@@ -106,7 +106,7 @@ Cargamos las tablas
 
 ![](imagenes/Aspose.Words.f926092b-9ef6-410d-8fcc-eacb01ecb3dc.023.png)
 
-Usamos el siguiente códigopara crear la tabla externa en Hive.
+Usamos el siguiente código para crear la tabla externa en Hive.
 
 ```sql
 CREATE EXTERNAL TABLE flights (
@@ -142,6 +142,7 @@ Una vez creado la  tabla externa en Hive se utiliza cuando deseas que los datos 
 Se genera la siguiente tabla:
 
 ![](imagenes/Aspose.Words.f926092b-9ef6-410d-8fcc-eacb01ecb3dc.025.png)
+
 
 
 
