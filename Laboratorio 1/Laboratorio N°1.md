@@ -92,6 +92,7 @@ Subiendo archivo csv cuyo nombre es flights.csv y le damos opción files view
 
 La dirección es user/admin/datasets/flights.csv como se observa en pantalla\
 \
+
 ![](imagenes/Aspose.Words.f926092b-9ef6-410d-8fcc-eacb01ecb3dc.021.png)
 
 Entramos a la opción Hive view para ingresar la query 
@@ -142,6 +143,7 @@ Una vez creado la  tabla externa en Hive se utiliza cuando deseas que los datos 
 Se genera la siguiente tabla:
 
 ![](imagenes/Aspose.Words.f926092b-9ef6-410d-8fcc-eacb01ecb3dc.025.png)
+
 
 
 
