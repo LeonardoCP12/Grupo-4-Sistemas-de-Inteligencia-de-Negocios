@@ -9,7 +9,7 @@ Integrantes:                                                                    
 
 Requisitos del ordenador usado
 
-![](Aspose.Words.f926092b-9ef6-410d-8fcc-eacb01ecb3dc.001.png)
+![](imagenes/Aspose.Words.f926092b-9ef6-410d-8fcc-eacb01ecb3dc.001.png)
 
 Instalando Virtual Box
 
@@ -177,3 +177,4 @@ Una vez creado la  tabla externa en Hive se utiliza cuando deseas que los datos 
 Se genera la siguiente tabla:
 
 ![](Aspose.Words.f926092b-9ef6-410d-8fcc-eacb01ecb3dc.025.png)
+
