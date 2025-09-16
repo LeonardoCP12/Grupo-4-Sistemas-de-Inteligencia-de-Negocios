@@ -1,6 +1,6 @@
 ﻿**LABORATORIO N°1**
 
-Integrantes:                                                                                                                   Grupo 4
+Integrantes:                                                                                                                                                               Grupo 4
 
 - Cárdenas Palacios, Leonardo Gustavo
 - Espinoza Cerna, Alex
@@ -108,55 +108,31 @@ Cargamos las tablas
 
 Usamos el siguiente códigopara crear la tabla externa en Hive.
 
-\
+```sql
 CREATE EXTERNAL TABLE flights (
-
-`  `year STRING,
-
-`  `month STRING,
-
-`  `day STRING,
-
-`  `dep\_time STRING,
-
-`  `dep\_delay STRING,
-
-`  `arr\_time STRING,
-
-`  `arr\_delay STRING,
-
-`  `carrier STRING,
-
-`  `tailnum STRING,
-
-`  `flight STRING,
-
-`  `origin STRING,
-
-`  `dest STRING,
-
-`  `air\_time STRING,
-
-`  `distance STRING,
-
-`  `hour STRING,
-
-`  `minute STRING
-
+  year STRING,
+  month STRING,
+  day STRING,
+  dep_time STRING,
+  dep_delay STRING,
+  arr_time STRING,
+  arr_delay STRING,
+  carrier STRING,
+  tailnum STRING,
+  flight STRING,
+  origin STRING,
+  dest STRING,
+  air_time STRING,
+  distance STRING,
+  hour STRING,
+  minute STRING
 )
-
 ROW FORMAT DELIMITED
-
 FIELDS TERMINATED BY ','
-
 STORED AS TEXTFILE
-
 LOCATION '/user/admin/datasets/flights.csv/'
-
 TBLPROPERTIES ("skip.header.line.count"="1");
-
-
-
+```
 Una vez creado la  tabla externa en Hive se utiliza cuando deseas que los datos permanezcan fuera del control directo de Hive. Y probamos la query select\*from flights para comprobar el funcionamiento.
 
 ![](imagenes/Aspose.Words.f926092b-9ef6-410d-8fcc-eacb01ecb3dc.024.png)
@@ -166,6 +142,7 @@ Una vez creado la  tabla externa en Hive se utiliza cuando deseas que los datos 
 Se genera la siguiente tabla:
 
 ![](imagenes/Aspose.Words.f926092b-9ef6-410d-8fcc-eacb01ecb3dc.025.png)
+
 
 
 
