@@ -13,59 +13,59 @@ Requisitos del ordenador usado
 
 Instalando Virtual Box
 
-![](Aspose.Words.f926092b-9ef6-410d-8fcc-eacb01ecb3dc.002.png)
+![](imagenes/Aspose.Words.f926092b-9ef6-410d-8fcc-eacb01ecb3dc.002.png)
 
-![](Aspose.Words.f926092b-9ef6-410d-8fcc-eacb01ecb3dc.003.png)Ejecutar el instalador de Virtual Box
+![](imagenes/Aspose.Words.f926092b-9ef6-410d-8fcc-eacb01ecb3dc.003.png)Ejecutar el instalador de Virtual Box
 
 
 Luego de dar a la opción de Archivo-Preferencias- General, elegimos llamar al archivo por defectro con el nombre de InteligenciaNegocios
 
-![](Aspose.Words.f926092b-9ef6-410d-8fcc-eacb01ecb3dc.004.png)
+![](imagenes/Aspose.Words.f926092b-9ef6-410d-8fcc-eacb01ecb3dc.004.png)
 
 
 Importacion del HDP Sandbox
 
-![](Aspose.Words.f926092b-9ef6-410d-8fcc-eacb01ecb3dc.005.png)
+![](imagenes/Aspose.Words.f926092b-9ef6-410d-8fcc-eacb01ecb3dc.005.png)
 
 Infromacion por defecto
 
-![](Aspose.Words.f926092b-9ef6-410d-8fcc-eacb01ecb3dc.006.png)
+![](imagenes/Aspose.Words.f926092b-9ef6-410d-8fcc-eacb01ecb3dc.006.png)
 
 
 
 Configurando la red
 
-![](Aspose.Words.f926092b-9ef6-410d-8fcc-eacb01ecb3dc.007.png)
+![](imagenes/Aspose.Words.f926092b-9ef6-410d-8fcc-eacb01ecb3dc.007.png)
 
 Asignando recursos
 
-![](Aspose.Words.f926092b-9ef6-410d-8fcc-eacb01ecb3dc.008.png)
+![](imagenes/Aspose.Words.f926092b-9ef6-410d-8fcc-eacb01ecb3dc.008.png)
 
-![](Aspose.Words.f926092b-9ef6-410d-8fcc-eacb01ecb3dc.009.png)
+![](imagenes/Aspose.Words.f926092b-9ef6-410d-8fcc-eacb01ecb3dc.009.png)
 
 Arrancando el sistema\
-![](Aspose.Words.f926092b-9ef6-410d-8fcc-eacb01ecb3dc.010.png)
+![](imagenes/Aspose.Words.f926092b-9ef6-410d-8fcc-eacb01ecb3dc.010.png)
 
 
-![](Aspose.Words.f926092b-9ef6-410d-8fcc-eacb01ecb3dc.011.png)
+![](imagenes/Aspose.Words.f926092b-9ef6-410d-8fcc-eacb01ecb3dc.011.png)
 
 
 Accediendo al Ambari desde la dirección: \
 \
 http://localhost:1080 
 
-![](Aspose.Words.f926092b-9ef6-410d-8fcc-eacb01ecb3dc.012.png)
+![](imagenes/Aspose.Words.f926092b-9ef6-410d-8fcc-eacb01ecb3dc.012.png)
 
-![](Aspose.Words.f926092b-9ef6-410d-8fcc-eacb01ecb3dc.013.png)
+![](imagenes/Aspose.Words.f926092b-9ef6-410d-8fcc-eacb01ecb3dc.013.png)
 
 Para acceder al root\
-![](Aspose.Words.f926092b-9ef6-410d-8fcc-eacb01ecb3dc.014.png)
+![](imagenes/Aspose.Words.f926092b-9ef6-410d-8fcc-eacb01ecb3dc.014.png)
 
-![](Aspose.Words.f926092b-9ef6-410d-8fcc-eacb01ecb3dc.015.png)
+![](imagenes/Aspose.Words.f926092b-9ef6-410d-8fcc-eacb01ecb3dc.015.png)
 
 
 
-![](Aspose.Words.f926092b-9ef6-410d-8fcc-eacb01ecb3dc.016.png)
+![](imagenes/Aspose.Words.f926092b-9ef6-410d-8fcc-eacb01ecb3dc.016.png)
 
 
 
@@ -73,7 +73,7 @@ Servicios principales activos
 
 HDFS, YARN, Hive, Spark, Zeppelin, como se puede observar en pantalla.
 
-![](Aspose.Words.f926092b-9ef6-410d-8fcc-eacb01ecb3dc.017.png)
+![](imagenes/Aspose.Words.f926092b-9ef6-410d-8fcc-eacb01ecb3dc.017.png)
 
 
 
@@ -177,4 +177,5 @@ Una vez creado la  tabla externa en Hive se utiliza cuando deseas que los datos 
 Se genera la siguiente tabla:
 
 ![](Aspose.Words.f926092b-9ef6-410d-8fcc-eacb01ecb3dc.025.png)
+
 
