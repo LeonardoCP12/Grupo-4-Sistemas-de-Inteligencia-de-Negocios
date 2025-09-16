@@ -76,38 +76,27 @@ HDFS, YARN, Hive, Spark, Zeppelin, como se puede observar en pantalla.
 ![](imagenes/Aspose.Words.f926092b-9ef6-410d-8fcc-eacb01ecb3dc.017.png)
 
 
-
-
-
-
-
-
-
-
-
-
-
 Ingresamos a la opción del Web Shell Client
 
-![](Aspose.Words.f926092b-9ef6-410d-8fcc-eacb01ecb3dc.018.png)
+![](imagenes/Aspose.Words.f926092b-9ef6-410d-8fcc-eacb01ecb3dc.018.png)
 
 Comrpobacion inicial
 
-![](Aspose.Words.f926092b-9ef6-410d-8fcc-eacb01ecb3dc.019.png)
+![](imagenes/Aspose.Words.f926092b-9ef6-410d-8fcc-eacb01ecb3dc.019.png)
 
 Subiendo archivo csv cuyo nombre es flights.csv y le damos opción files view
 
-![](Aspose.Words.f926092b-9ef6-410d-8fcc-eacb01ecb3dc.020.png)
+![](imagenes/Aspose.Words.f926092b-9ef6-410d-8fcc-eacb01ecb3dc.020.png)
 
 
 
 La dirección es user/admin/datasets/flights.csv como se observa en pantalla\
 \
-![](Aspose.Words.f926092b-9ef6-410d-8fcc-eacb01ecb3dc.021.png)
+![](imagenes/Aspose.Words.f926092b-9ef6-410d-8fcc-eacb01ecb3dc.021.png)
 
 Entramos a la opción Hive view para ingresar la query 
 
-![](Aspose.Words.f926092b-9ef6-410d-8fcc-eacb01ecb3dc.022.png)
+![](imagenes/Aspose.Words.f926092b-9ef6-410d-8fcc-eacb01ecb3dc.022.png)
 
 
 
@@ -115,7 +104,7 @@ Entramos a la opción Hive view para ingresar la query
 Cargamos las tablas
 
 
-![](Aspose.Words.f926092b-9ef6-410d-8fcc-eacb01ecb3dc.023.png)
+![](imagenes/Aspose.Words.f926092b-9ef6-410d-8fcc-eacb01ecb3dc.023.png)
 
 Usamos el siguiente códigopara crear la tabla externa en Hive.
 
@@ -170,12 +159,13 @@ TBLPROPERTIES ("skip.header.line.count"="1");
 
 Una vez creado la  tabla externa en Hive se utiliza cuando deseas que los datos permanezcan fuera del control directo de Hive. Y probamos la query select\*from flights para comprobar el funcionamiento.
 
-![](Aspose.Words.f926092b-9ef6-410d-8fcc-eacb01ecb3dc.024.png)
+![](imagenes/Aspose.Words.f926092b-9ef6-410d-8fcc-eacb01ecb3dc.024.png)
 
 
 
 Se genera la siguiente tabla:
 
-![](Aspose.Words.f926092b-9ef6-410d-8fcc-eacb01ecb3dc.025.png)
+![](imagenes/Aspose.Words.f926092b-9ef6-410d-8fcc-eacb01ecb3dc.025.png)
+
 
 
