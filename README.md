@@ -36,6 +36,15 @@ La arquitectura de Data Warehouse en BBVA resuelve la problemática de tener ind
 
 ![Arquitectura Preliminar BBVA](https://github.com/user-attachments/assets/012e533d-e688-4041-bf63-084e7327ae14)
 
+## Instalación y uso de Hortonworks Data Platform (HDP) en VirtualBox con integración de Hive
 
+Se realizo el Laboratorio 1 donde se detalla el proceso de instalación y configuración de *VirtualBox* para correr *Hortonworks Data Platform (HDP) Sandbox, asignando recursos, configurando la red y accediendo a **Ambari* para la gestión de servicios principales como *HDFS, YARN, Hive, Spark y Zeppelin*.
+Se explica además cómo cargar un archivo CSV (flights.csv) en *HDFS, crear una **tabla externa en Hive* y ejecutar consultas SQL para validar la correcta integración del entorno.
+
+
+<img width="886" height="697" alt="image" src="https://github.com/user-attachments/assets/1f7283c1-585e-4779-8c29-c3a99d88219f" />
+
+
+<img width="886" height="699" alt="image" src="https://github.com/user-attachments/assets/bce63e3c-3eee-4333-a2e4-082b031948a1" />
 
 
