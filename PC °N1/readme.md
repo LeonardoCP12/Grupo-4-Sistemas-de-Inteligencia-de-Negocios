@@ -1,4 +1,4 @@
-# LISTA DE USUARIOS
+# LISTA DE USUARIOS UTILIZADOS Y CAMBIADOS
 
 |   Usuario   | Contraseña |
 |:-----------:|:----------:|
