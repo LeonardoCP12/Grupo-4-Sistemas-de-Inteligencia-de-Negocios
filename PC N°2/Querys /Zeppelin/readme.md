@@ -29,7 +29,7 @@ df.count()
 
 ### Cálculo de los 6 KPI’s del Practitioner
 
-```pyspark
+```python
 %pyspark
 from pyspark.sql import functions as F
 from pyspark.sql.window import Window
@@ -148,7 +148,7 @@ df_calc.orderBy("row_id").select(
 
 ### Cálculo de los 13 KPI’s del Continuous Integration
 
-```pyspark
+```python
 %pyspark
 from pyspark.sql import functions as F
 from pyspark.sql.window import Window
