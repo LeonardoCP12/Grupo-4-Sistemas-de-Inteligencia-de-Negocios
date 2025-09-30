@@ -4,7 +4,7 @@
 
 ### Mostrar las 5 primeras filas, ver el tipo de dato y conteo de filas.
 
-```pyspark
+```python
 %pyspark
 csv_file = "hdfs:///user/root/data_cruda_practitioner/data_cruda_practitioner.csv"
 # Lee el archivo CSV usando el API de Spark
