@@ -82,7 +82,7 @@ TBLPROPERTIES ("skip.header.line.count"="1");
 **Nota.** *Interfaz Query Editor con la query de la tabla externa del continuous integration* 
 
 ```sql
-select * from data_cruda_continuous integration
+select * from data_cruda_continuous_integration
 
 ```
 
