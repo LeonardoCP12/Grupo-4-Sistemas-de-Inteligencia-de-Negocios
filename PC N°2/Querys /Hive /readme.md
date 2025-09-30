@@ -32,6 +32,12 @@ TBLPROPERTIES ("skip.header.line.count"="1");
 
 **Nota.** *Interfaz Query Editor con la query de la tabla externa del practitioner* 
 
+```sql
+
+select * from data_cruda_practitioner
+
+```
+
 <img width="886" height="545" alt="image" src="https://github.com/user-attachments/assets/aea2234d-de19-4886-bc66-f739bbde04ca" />
 
 **Nota.** *Interfaz Query Editor con la query para ver tabla externa del practitioner* 
@@ -74,6 +80,11 @@ TBLPROPERTIES ("skip.header.line.count"="1");
 <img width="886" height="386" alt="image" src="https://github.com/user-attachments/assets/d13b3655-39da-43de-836b-49212b5fa41e" />
 
 **Nota.** *Interfaz Query Editor con la query de la tabla externa del continuous integration* 
+
+```sql
+select * from data_cruda_continuous integration
+
+```
 
 <img width="886" height="550" alt="image" src="https://github.com/user-attachments/assets/45628e95-5a4e-4ada-a895-a30c5dbf5b91" />
 
