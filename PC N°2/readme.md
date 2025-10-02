@@ -39,13 +39,5 @@ Se implementaron mejoras significativas en la **arquitectura de ingesta de datos
 
 ### Diagrama del Flujo de Datos  
 
-```mermaid
-flowchart LR
-    A[Fuentes de Datos<br/>Jira, Bitbucket, Nucleus, Jenkins, Chimera, SonarQube] --> B[Preingesta<br/>Playbook BBVA<br/>CSV (data cruda)]
-    B --> C[Capa Bronce<br/>Ingesta con Spark]
-    C --> D[Capa Plata<br/>Limpieza y estandarización<br/>Power BI]
-    D --> E[Capa Oro<br/>Modelo Estrella]
-    E --> F[DataMart<br/>Almacén de datos]
-    F --> G[Dashboard en Power BI<br/>KPIs]
-    G --> H[Interfaz en React<br/>Multi-plataforma]
+<img width="4982" height="2314" alt="image" src="https://github.com/user-attachments/assets/d15ab48f-8b5a-496d-aa62-598e901fcf6c" />
 
